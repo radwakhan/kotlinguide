@@ -18,7 +18,7 @@ fun main(){
     }
 
     val izActive=true
-    if(izActive){
+    if(!izActive){
         println("user is active")
     }else{
         println("user not active")
